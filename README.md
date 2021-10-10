@@ -34,12 +34,18 @@ https://github.com/piratainformatico2/MetaInfo
 
 * `apt update && apt upgrade -y`
 
+* `apt-get install lolcat`
 
+* `git clone https://github.com/piratainformatico2/MetaInfo`
 
+* `cd MetaInfo`
 
+* `./MetaInfo.sh
 
-
-
+---
+###### `:} Puedes desofuscar, pero no copiar!! ` 
+###### `By: José Díaz +52 2283821202` 🇲🇽🇲🇽
+---
 
 
 <!-- NO COPIAR, JOSÉ DÍAZ It's the beast -->
