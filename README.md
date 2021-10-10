@@ -1,2 +1,9 @@
-# MetaInfo
-Script capas de extraer los metadatos de fotos etc. También los puede modificar un exelente repositorio
+<h1 align="center"><a href="https://github.com/piratainformatico2"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖José Díaz᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a></h1>
+
+<p align="center"><img src="https://github.com/piratainformatico2/packages/blob/main/Images/20210928_223304.gif" width="360" height="115"/> </p>
+
+![version]
+![Tested]
+![autor]
+![autor2]
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com)
