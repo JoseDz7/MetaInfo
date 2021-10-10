@@ -24,13 +24,7 @@
 </details>
 
 ## Menu principal :
-
-
-
-
-
-
-
+![Image text](https://github.com/piratainformatico2/MetaInfo/blob/main/images/Screenshot_20211010-174623.png)
 
 
 
