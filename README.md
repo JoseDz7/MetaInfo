@@ -40,7 +40,7 @@ https://github.com/piratainformatico2/MetaInfo
 
 * `cd MetaInfo`
 
-* `./MetaInfo.sh
+* `./MetaInfo.sh`
 
 ---
 ###### `:} Puedes desofuscar, pero no copiar!! ` 
