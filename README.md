@@ -40,10 +40,12 @@ https://github.com/piratainformatico2/MetaInfo
 
 * `cd MetaInfo`
 
+* `chmod +x MetaInfo`
+
 * `./MetaInfo`
 
 ---
-###### `:} Puedes desofuscar, pero no copiar!! ` 
+###### `Passwords: JoseDiaz or undercon. User: random ` 
 ###### `By: José Díaz +52 2283821202` 🇲🇽🇲🇽
 ---
 
