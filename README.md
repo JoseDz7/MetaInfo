@@ -20,7 +20,7 @@
 
 - Si deseas apoyarme con una estrella en mis repositorios >>> [sharkcode](https://github.com/piratainformatico2)
 
-- ` NOTA: Creado por : José Díaz  `
+- ` NOTA: Creado por : Después de ejecutar se puede ocupar desde cualquier directorio con [MetaInfo]  `
 </details>
 
 ## Menu principal :
@@ -40,7 +40,7 @@ https://github.com/piratainformatico2/MetaInfo
 
 * `cd MetaInfo`
 
-* `./MetaInfo.sh`
+* `./MetaInfo`
 
 ---
 ###### `:} Puedes desofuscar, pero no copiar!! ` 
