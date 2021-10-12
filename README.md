@@ -36,7 +36,7 @@ https://github.com/piratainformatico2/MetaInfo
 
 * `apt-get install ruby`
 
-* 'gem install lolcat`
+* `gem install lolcat`
 
 * `git clone https://github.com/piratainformatico2/MetaInfo`
 
